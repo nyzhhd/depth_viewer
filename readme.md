@@ -9,11 +9,12 @@
 ---
 
 ## 🚀 即开即用
-
+```
 git clone https://github.com/YOUR_NAME/DepthPeek.git
 cd DepthPeek
 pip install streamlit opencv-python matplotlib
 streamlit run depth_viewer/depth_viewer.py
+```
 
 浏览器自动打开 → 上传 `.png` / `.tiff` → 立刻看到伪彩色深度图。
 
