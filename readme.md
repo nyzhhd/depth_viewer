@@ -4,8 +4,11 @@
 
 **简介**：把 16-bit 深度图拖进浏览器，2-98 百分位自动截断、一键换色，秒级可视化。
 
+jet：
 ![DepthPeek 界面](resource/pic1.jpg)
 
+plasma:
+![DepthPeek 界面](resource/pic2.jpg)
 ---
 
 ## 🚀 即开即用
@@ -33,7 +36,7 @@ streamlit run depth_viewer/depth_viewer.py
 ```
 DepthPeek/
 ├── depth_viewer/
-│   └── depth_viewer.py   # 主程序（<100 行）
+│   └── depth_viewer.py   # 主程序
 ├── resource/
 │   └── pic1.jpg          # 网页界面示意图
 ├── README.md
